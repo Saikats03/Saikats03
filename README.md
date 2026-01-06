@@ -15,7 +15,7 @@
 ![CRUD](https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC_Architecture-FF5722?style=for-the-badge)
 
-#⚙️ Frameworks 
+## ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 # 📊 GitHub Stats:
