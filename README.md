@@ -1,5 +1,7 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hi, I'm Saikat Sarkar  <br><br>🎓 B.Tech student in Computer Science & Engineering at Amity University Jharkhand  <br>💻 Passionate about Java Backend Development and Problem Solving <br>📘 Actively working on DSA, Spring Boot, and Full Stack Development <br>🚀 Aspiring Software Engineer with a strong interest in scalable systems  <br><br>🌱 Currently Learning:<br>- Advanced Data Structures & Algorithms  <br>- Spring Boot + REST API Best Practices  <br>- Database Design & Optimization  <br><br>💬 Ask me about:<br>- Java, OOPs, DSA  <br>- Spring Boot, REST APIs  <br>- Git & GitHub  <br><br>📫 Reach me at: saikat.sarkar0303@gmail.com<br>
+💫 About Me:<br>👋 Hi, I'm Saikat Sarkar  <br><br>🎓 B.Tech student in Computer Science & Engineering at Amity University Jharkhand  <br>💻 Passionate about Java Backend Development and Problem Solving <br>📘 Actively working on DSA, Spring Boot, and Full Stack Development <br>🚀 Aspiring Software Engineer with a strong interest in scalable systems  <br><br>🌱 Currently Learning:<br>- Advanced Data Structures & Algorithms  <br>- Spring Boot + REST API Best Practices  <br>- Database Design & Optimization  <br><br>
+🛠️ Skills:
+<br>- Java, OOPs, DSA  <br>- Spring Boot, REST APIs <br>- MySQL, MongoDb <br>- Git & GitHub <br><br>📫 Reach me at: saikat.sarkar0303@gmail.com<br>
 
 
 ## 🌐 Socials:
